@@ -57,7 +57,9 @@ InstaPro IA é uma plataforma inovadora onde pessoas podem enviar suas fotos com
 - 🎨 CSS3
 - 💻 JavaScript
 
+## 🧰 Link do projeto
 
-.
+link: https://instaproia.netlify.app/
+
 
 
