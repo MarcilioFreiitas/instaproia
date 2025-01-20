@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/9b8bed95-f8cc-40c2-bb04-753a9cff2f6b)
 
-![Image](https://github.com/user-attachments/assets/8045a35e-0a69-475e-9730-5f312ea183ed)
+
 
 InstaPro IA é uma plataforma inovadora onde pessoas podem enviar suas fotos com diferentes ângulos e expressões, e uma inteligência artificial gera mais de 40 fotos profissionais. Essas fotos podem ser usadas como fotos formais em perfis para atrair a atenção de recrutadores.
 
@@ -13,7 +13,7 @@ InstaPro IA é uma plataforma inovadora onde pessoas podem enviar suas fotos com
 - 🖥️ Interface amigável e intuitiva
 - 🌟 Fotos ideais para perfis em redes sociais e sites de emprego
 
-![Exemplo de Fotos Geradas](https://via.placeholder.com/300)
+
 
 ## 🚀 Instalação
 
